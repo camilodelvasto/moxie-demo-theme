@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Moxie Press
+ Template:  writer
+*/
+
+#header{
+  display:none;
+}
+
+.entry-links, .page .post-edit-link, .entry-meta{
+  display:none !important;
+}
+
+h1{
+  font-size:25px;
+}
